@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Benjamin Quinteros- Software Developer",
+  title: "Portfolio of Benjamin Quinteros- Full Stack Developer",
   description:
-    "This is the portfolio of Benjamin Quinteros.",
+    "Portfolio  de Benjamin Quinteros.",
 };
 
 export default function RootLayout({ children }) {
