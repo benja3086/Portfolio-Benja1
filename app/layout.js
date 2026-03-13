@@ -14,7 +14,6 @@ export const metadata = {
   description:
     "Portfolio  de Benjamin Quinteros.",
 };
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
